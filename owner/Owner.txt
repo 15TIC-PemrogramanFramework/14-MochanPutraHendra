@@ -1,0 +1,3 @@
+Nama=Mochan Putra Hendra
+NIM=1555301046
+Email=mochan15ti@mahasiswa.pcr.ac.id
